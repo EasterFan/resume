@@ -1,14 +1,10 @@
 # My Resume
-
-[html.love](http://html.love)
-
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/ucdjQF7wcNNiWY9mCEpAeGLz/DIYgod/Resume'>
-  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/ucdjQF7wcNNiWY9mCEpAeGLz/DIYgod/Resume.svg' />
-</a>
+一个个人简历
+![readme](img/readme.png)
 
 ## Introduction
 
-风格参考 @Ovilia @joyeecheung @lishengzxc
+项目基于 [DIYGOD](https://github.com/DIYgod/Resume)，换了一个浅色的色调~
 
 ## Usage
 
@@ -29,4 +25,4 @@ $ gulp
 
 ## LICENSE
 
-MIT © [DIYgod](http://github.com/DIYgod)
+MIT © [easterfan](http://github.com/easterfan)
