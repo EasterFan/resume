@@ -1,6 +1,6 @@
 # My Resume
 一个个人简历
-![readme](img/readme.png)
+![readme](img/readme.jpg)
 
 ## Introduction
 
